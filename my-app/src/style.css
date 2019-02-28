@@ -1,0 +1,26 @@
+.blackbgr{
+  background-color: black;
+}
+
+p {
+  color:white;
+}
+
+.ui.borderless.socialmedia.menu{
+  background-color: black;
+  border: none;
+  box-shadow: none;
+
+}
+
+.ui.borderless.topmenu.menu {
+  background-color: black;
+  border: none;
+  box-shadow: none;
+  color:white;
+}
+
+.ui.menu .item{
+  color: white;
+  font-size: 15px;
+}
